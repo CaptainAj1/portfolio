@@ -91,7 +91,7 @@
 						<li><span class="first-block">Phone:</span><span class="second-block">+91 8623947396</span></li>
 						<li><span class="first-block">Email:</span><span class="second-block">aj9145348@gmail.com</span></li>
 						<li><span class="first-block">Address:</span><span class="second-block">Hadapsar, Pune-411028</span></li>
-						<li><span class="first-block">Resume:</span><span class="second-block"><a href="files/Abhishek_Jadhav_Resume.pdf" download>Resume.pdf</a>
+						<li><span class="first-block">Resume:</span><span class="second-block"><a href="files/Abhishek_Jadhav_Resume.pdf" download>Resume.pdf</a></span></li>
 
 					</ul>
 				</div>
