@@ -276,10 +276,17 @@
 					<a href="#" class="work" style="background-image: url(images/music_store.jpg); text-align: center; float: right;">
 						<div class="desc">
 							<h3>Klezmer The Music Store</h3>
-							<span>Website</span>
+							<span>Coming Soon</span>
 						</div>
 					</a>
 				</div>
+				<div id="cp_widget_1961f4cf-69c6-411f-a953-f15242745b78">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_1961f4cf-69c6-411f-a953-f15242745b78"; cpo["_fid"] = "AQGAWluzRklD";
+var _cpmp = _cpmp || []; _cpmp.push(cpo);
+(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+var c = document.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>Creations</span><span>A Glimpse of my recent work</span><span>Youth Sunday Badge</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>Indian Classical Musical Event Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1920</span><span>height</span><span> 900</span><span>First Birthday Invitation</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1080</span><span>height</span><span> 1920</span><span>Grace Events Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1080</span><span>height</span><span> 1920</span><span>Youth Sunday Bookmark</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 600</span><span>height</span><span> 1800</span><span>Musical Event Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 960</span><span>height</span><span> 540</span></noscript>
 		</div>
 	</div>
 
