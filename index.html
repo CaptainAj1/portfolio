@@ -280,14 +280,13 @@
 						</div>
 					</a>
 				</div>
-				<div id="cp_widget_91252547-f560-4056-9ada-ff2b9b6c6468">...</div><script type="text/javascript">
-var cpo = []; cpo["_object"] ="cp_widget_91252547-f560-4056-9ada-ff2b9b6c6468"; cpo["_fid"] = "AQGAWluzRklD";
+				<div id="cp_widget_9568ad77-bfa2-41dc-980b-c49be4b884cb">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_9568ad77-bfa2-41dc-980b-c49be4b884cb"; cpo["_fid"] = "AQGAWluzRklD";
 var _cpmp = _cpmp || []; _cpmp.push(cpo);
 (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
 cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
 var c = document.getElementsByTagName("script")[0];
-c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>Creations</span><span>A Glimpse of my recent work</span><span>Musical Event Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 960</span><span>height</span><span> 540</span><span>Indian Classical Musical Event Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1920</span><span>height</span><span> 900</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span></noscript>		</div>
-	</div>
+c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>Creations</span><span>A Glimpse of my recent work</span><span>Musical Event Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 960</span><span>height</span><span> 540</span><span>Indian Classical Musical Event Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1920</span><span>height</span><span> 900</span><span>NYI Badge</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>Birthday Invitation</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>NYI Bookmark</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span></noscript>	</div>
 
 
 
