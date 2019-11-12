@@ -99,7 +99,7 @@
 				<div class="col-md-8">
 					<h2>Hello There!</h2>
 					<p>I am Abhishek Jadhav from Maharashtra, India. Holding a Bachelor's Degree in Computer Engineering (Pune University) I've been working as a Web Developer & Video Editor for the past one year in my hometown. Having sound knowledge and experience in Video Editing I am also well versed with PHP, JavaScript, SQL, jQuery and the front-end know-how to support that. I believe in creative and efficient work.</p>
-					<p>Aiming to obtain a creative and challenging position as a Non-Linear Video Editor.</p>
+					<p>Currently working as a Real estate video editor & Graphics designer at SaudaGhar, Pune. Aiming to obtain a creative and challenging position as a Non-Linear Video Editor.</p>
 					<p>
 						<ul class="fh5co-social-icons">
 <li><a href="https://twitter.com/CaptainAj1" target="_blank"><i class="icon-twitter2"></i></a></li>
@@ -194,6 +194,8 @@
 <p><li>PHP</li>
 <p><li>Drupal</li></p> 
 <p><li>Wordpress</li></p>
+<p><li>Video Editing</li></p>
+<p><li>Graphics Designing</li></p>
 <p><li>Adobe Permiere Pro CC</li></p>
 <p><li>Adobe Photoshop CC</li></p>
 <p><li>Adobe After Effects CC</li></p>
