@@ -224,6 +224,15 @@
 					</a>
 				</div>	
 			    
+			<div class="col-md-3 text-center col-padding animate-box">
+					<a href="https://youtu.be/aU6iT8jV7Ac" target="_blank" class="work" style="background-image: url(images/promo.png); text-align: center; float: right;">
+						<div class="desc">
+							<h3>Yeta Yeta Ka</h3>
+							<span>Music Video</span>
+						</div>
+					</a>
+				</div>
+			
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="https://youtu.be/SDYWAcqIFDA" target="_blank" class="work" style="background-image: url(images/promo.png); text-align: center; float: right;">
 						<div class="desc">
@@ -274,14 +283,7 @@
 						</div>
 					</a>
 				</div>
-								<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/music_store.jpg); text-align: center; float: right;">
-						<div class="desc">
-							<h3>Klezmer The Music Store</h3>
-							<span>Coming Soon</span>
-						</div>
-					</a>
-				</div>
+	
 				<div id="cp_widget_9568ad77-bfa2-41dc-980b-c49be4b884cb">...</div><script type="text/javascript">
 var cpo = []; cpo["_object"] ="cp_widget_9568ad77-bfa2-41dc-980b-c49be4b884cb"; cpo["_fid"] = "AQGAWluzRklD";
 var _cpmp = _cpmp || []; _cpmp.push(cpo);
