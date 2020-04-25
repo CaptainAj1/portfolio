@@ -225,10 +225,10 @@
 				</div>	
 			    
 			<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/aU6iT8jV7Ac" target="_blank" class="work" style="background-image: url(images/yeta_yeta_ka.png); text-align: center; float: right;">
+					<a href="https://youtu.be/aU6iT8jV7Ac" target="_blank" class="work" style="background-image: url(images/project_review.png); text-align: center; float: right;">
 						<div class="desc">
-							<h3>Yeta Yeta Ka</h3>
-							<span>Music Video</span>
+							<h3>SaudaGhar Project Review</h3>
+							<span>RealEstate Video</span>
 						</div>
 					</a>
 				</div>
