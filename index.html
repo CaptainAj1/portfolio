@@ -98,8 +98,8 @@
 				
 				<div class="col-md-8">
 					<h2>Hello There!</h2>
-					<p>I am Abhishek Jadhav from Maharashtra, India. Holding a Bachelor's Degree in Computer Engineering (Pune University) I've been working as a Web Developer & Video Editor for the past two years in my hometown. Having sound knowledge and experience in Video Editing I am also well versed with PHP, JavaScript, SQL, jQuery and the front-end know-how to support that. I believe in creative and efficient work.</p>
-					<p>Currently working as an Editor at SaudaGhar.com, Pune. Aiming to obtain a creative and challenging position as a Non-Linear Video Editor.</p>
+					<p>I am Abhishek Jadhav from Maharashtra, India. Holding a Bachelor's Degree in Computer Engineering (Pune University) I've been working as a Web Developer & Video Editor for the past one year in my hometown. Having sound knowledge and experience in Video Editing I am also well versed with PHP, JavaScript, SQL, jQuery and the front-end know-how to support that. I believe in creative and efficient work.</p>
+					<p>Currently working as a Real estate video editor & Graphics designer at SaudaGhar, Pune. Aiming to obtain a creative and challenging position as a Non-Linear Video Editor.</p>
 					<p>
 						<ul class="fh5co-social-icons">
 <li><a href="https://twitter.com/CaptainAj1" target="_blank"><i class="icon-twitter2"></i></a></li>
@@ -225,10 +225,10 @@
 				</div>	
 			    
 			<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/vtIoiShOuTU" target="_blank" class="work" style="background-image: url(images/ganga-altus-review.png); text-align: center; float: right;">
+					<a href="https://youtu.be/aU6iT8jV7Ac" target="_blank" class="work" style="background-image: url(images/yeta_yeta_ka.png); text-align: center; float: right;">
 						<div class="desc">
-							<h3>SaudaGhar Project Review</h3>
-							<span>RealEstate Video</span>
+							<h3>Yeta Yeta Ka</h3>
+							<span>Music Video</span>
 						</div>
 					</a>
 				</div>
