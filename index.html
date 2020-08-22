@@ -252,7 +252,7 @@
 				</div>
 
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/YjLfA5SJBuI" target="_blank" class="work" style="background-image: url(images/prelude.png); text-align: center; float: right;">
+					<a href="https://youtu.be/YjLfA5SJBuI" target="_blank" class="work" style="background-image: url(images/Villa.png); text-align: center; float: right;">
 						<div class="desc">
 							<h3>Luxurious Villa Tour</h3>
 							<span>RealEstate Video</span>
