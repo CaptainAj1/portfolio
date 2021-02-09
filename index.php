@@ -216,19 +216,19 @@
 			</div>
 			
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/uAcRpqkyPlY" target="_blank" class="work" style="background-image: url(images/ANSA.jpg); text-align: center; float: right;">
+					<a href="https://youtu.be/AuMC3254jP4" target="_blank" class="work" style="background-image: url(images/project_review.png); text-align: center; float: right;">
 						<div class="desc">
-							<h3>Ala Natalacha San Ala</h3>
-							<span>Music Video</span>
+							<h3>Project Review</h3>
+							<span>Real Estate Review</span>
 						</div>
 					</a>
 				</div>	
 			    
 			<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/vtIoiShOuTU" target="_blank" class="work" style="background-image: url(images/project_review.png); text-align: center; float: right;">
+					<a href="https://youtu.be/skM6dQGteOA" target="_blank" class="work" style="background-image: url(images/music_video.png); text-align: center; float: right;">
 						<div class="desc">
-							<h3>SaudaGhar Project Review</h3>
-							<span>RealEstate Video</span>
+							<h3>Mann Aikena</h3>
+							<span>Music Video</span>
 						</div>
 					</a>
 				</div>
