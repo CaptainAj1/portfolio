@@ -61,7 +61,7 @@
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 							<div class="profile-thumb" style="background: url(images/Propic.jpeg);"></div>
 							<h1><span>Abhishek Jadhav</span></h1>
-							<h3><span>Web Developer/ Video Editor</span></h3>
+							<h3><span>Video Editor/ Web Developer</span></h3>
 							<p>
 								<ul class="fh5co-social-icons">
 <li><a href="https://twitter.com/CaptainAj1" target="_blank"><i class="icon-twitter2"></i></a></li>
@@ -216,15 +216,42 @@
 			</div>
 			
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/AuMC3254jP4" target="_blank" class="work" style="background-image: url(images/project_review.png); text-align: center; float: right;">
+					<a href="https://youtu.be/zaEDRbWzJ3I" target="_blank" class="work" style="background-image: url(images/project_review.png); text-align: center; float: right;">
 						<div class="desc">
 							<h3>Project Review</h3>
-							<span>Real Estate Review</span>
+							<span>Real Estate Video</span>
 						</div>
 					</a>
 				</div>	
 			    
 			<div class="col-md-3 text-center col-padding animate-box">
+					<a href="https://youtu.be/Xl0fpNmLF6Y" target="_blank" class="work" style="background-image: url(images/sample_flat.png); text-align: center; float: right;">
+						<div class="desc">
+							<h3>Sample Flat Tour</h3>
+							<span>Real Estate Video</span>
+						</div>
+					</a>
+				</div>
+			
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="https://youtu.be/lGchYwDFBdE" target="_blank" class="work" style="background-image: url(images/pune_metro.png); text-align: center; float: right;">
+						<div class="desc">
+							<h3>Pune Metro</h3>
+							<span>Metro Rail Video</span>
+						</div>
+					</a>
+				</div>
+				
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="https://youtu.be/A2szbOCPzZo" target="_blank" class="work" style="background-image: url(images/onground.png); text-align: center; float: right;">
+						<div class="desc">
+							<h3>Construction Site</h3>
+							<span>Real Estate Video</span>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="https://youtu.be/skM6dQGteOA" target="_blank" class="work" style="background-image: url(images/music_video.png); text-align: center; float: right;">
 						<div class="desc">
 							<h3>Mann Aikena</h3>
@@ -232,38 +259,11 @@
 						</div>
 					</a>
 				</div>
-			
-				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/SDYWAcqIFDA" target="_blank" class="work" style="background-image: url(images/promo.png); text-align: center; float: right;">
-						<div class="desc">
-							<h3>Promo</h3>
-							<span>Promo Video</span>
-						</div>
-					</a>
-				</div>
-				
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="https://youtu.be/EQG9bFB9JpE" target="_blank" class="work" style="background-image: url(images/Zinda.png); text-align: center; float: right;">
 						<div class="desc">
 							<h3>Zinda Hai</h3>
 							<span>Music Video</span>
-						</div>
-					</a>
-				</div>
-
-				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/YjLfA5SJBuI" target="_blank" class="work" style="background-image: url(images/Villa.png); text-align: center; float: right;">
-						<div class="desc">
-							<h3>Luxurious Villa Tour</h3>
-							<span>RealEstate Video</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/SDYWAcqIFDA" target="_blank" class="work" style="background-image: url(images/trailer.png); text-align: center; float: right;">
-						<div class="desc">
-							<h3>Trailer</h3>
-							<span>Trailer Video</span>
 						</div>
 					</a>
 				</div>
@@ -284,13 +284,7 @@
 					</a>
 				</div>
 	
-				<div id="cp_widget_9568ad77-bfa2-41dc-980b-c49be4b884cb">...</div><script type="text/javascript">
-var cpo = []; cpo["_object"] ="cp_widget_9568ad77-bfa2-41dc-980b-c49be4b884cb"; cpo["_fid"] = "AQGAWluzRklD";
-var _cpmp = _cpmp || []; _cpmp.push(cpo);
-(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
-cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
-var c = document.getElementsByTagName("script")[0];
-c.parentNode.insertBefore(cp, c); })(); </script><noscript><span>Creations</span><span>A Glimpse of my recent work</span><span>Musical Event Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 960</span><span>height</span><span> 540</span><span>Indian Classical Musical Event Poster</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1920</span><span>height</span><span> 900</span><span>NYI Badge</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>Birthday Invitation</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span><span>NYI Bookmark</span><span>originaldate</span><span> 1/1/0001 6:00:00 AM</span><span>width</span><span> 1442</span><span>height</span><span> 1080</span></noscript>	</div>
+					</div>
 
 
 
