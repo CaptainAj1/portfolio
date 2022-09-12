@@ -233,10 +233,10 @@
 				</div>
 			
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/lGchYwDFBdE" target="_blank" class="work" style="background-image: url(images/pune_metro.png); text-align: center; float: right;">
+					<a href="https://youtu.be/IJKyLCyhwj0" target="_blank" class="work" style="background-image: url(images/Internwise.png); text-align: center; float: right;">
 						<div class="desc">
-							<h3>Pune Metro</h3>
-							<span>Metro Rail Video</span>
+							<h3>Internwise Academy</h3>
+							<span>Educational Video</span>
 						</div>
 					</a>
 				</div>
