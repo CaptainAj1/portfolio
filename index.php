@@ -267,17 +267,17 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://twix-recepie.000webhostapp.com/" target="_blank" class="work" style="background-image: url(images/twix.png); text-align: center; float: right;">
+					<a href="https://twix-recepie.000webhostapp.com/" target="_blank" class="work" style="background-image: url(images/portfolio.png); text-align: center; float: right;">
 						<div class="desc">
-							<h3>Twix Recepie</h3>
-							<span>Drupal website</span>
+							<h3>My Portfolio</h3>
+							<span>Website</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://myphp-tutorial.000webhostapp.com/" target="_blank" class="work" style="background-image: url(images/Project1.jpg); text-align: center; float: right;">
+					<a href="https://myphp-tutorial.000webhostapp.com/" target="_blank" class="work" style="background-image: url(images/namastenima.png); text-align: center; float: right;">
 						<div class="desc">
-							<h3>Tutorial Website</h3>
+							<h3>Restaurant Website</h3>
 							<span>Website</span>
 						</div>
 					</a>
