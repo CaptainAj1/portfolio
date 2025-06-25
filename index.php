@@ -61,7 +61,7 @@
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 							<div class="profile-thumb" style="background: url(images/Propic.jpeg);"></div>
 							<h1><span>Abhishek Jadhav</span></h1>
-							<h3><span>Content Specialist</span></h3>
+							<h3><span>Multimedia Specialist</span></h3>
 							<p>
 								<ul class="fh5co-social-icons">
 <li><a href="https://twitter.com/CaptainAj1" target="_blank"><i class="icon-twitter2"></i></a></li>
@@ -90,7 +90,7 @@
 						<li><span class="first-block">Full Name:</span><span class="second-block">Abhishek Jayant Jadhav</span></li>
 						<li><span class="first-block">Phone:</span><span class="second-block">+91 9325769462</span></li>
 						<li><span class="first-block">Email:</span><span class="second-block">abhishekjadhav0827@gmail.com</span></li>
-						<li><span class="first-block">Address:</span><span class="second-block">Pune-411028</span></li>
+						<li><span class="first-block">Address:</span><span class="second-block">Tbilisi, Georgia</span></li>
 						<li><span class="first-block">Resume:</span><span class="second-block"><a href="files/Abhishek_Jadhav_Resume.pdf" download>Resume.pdf</a></span></li>
 
 					</ul>
@@ -98,8 +98,8 @@
 				
 				<div class="col-md-8">
 					<h2>Hello There!</h2>
-					<p>I am Abhishek Jadhav from Maharashtra, India. Holding a Bachelor's Degree in Computer Engineering (Pune University) I've been working as a Content Specialist for the past three years in my hometown. Having sound knowledge and experience in Video Editing & Graphics Designing I am also well versed with PHP, JavaScript, SQL, jQuery and the front-end know-how to support that. I believe in creative and efficient work.</p>
-					<p>Aiming to obtain a creative and challenging position as a Content Specialist.</p>
+					<p>Multimedia Specialist based in Tbilisi, Georgia, with over five years of experience in video editing, graphic design, and social media content creation. With a background in Computer Engineering from Pune University and a strong command of tools like Adobe Premiere Pro, After Effects, and Photoshop, I bring ideas to life through impactful visual storytelling. I’m also skilled in PHP, JavaScript, SQL, and jQuery, bridging creative design with technical functionality. Currently pursuing an MBA in Business Administration, I’m focused on crafting digital content that’s not only visually engaging but also strategically effective.</p>
+					<p>Aiming to obtain a creative and challenging position as a Multimedia Specialist.</p>
 					<p>
 						<ul class="fh5co-social-icons">
 <li><a href="https://twitter.com/CaptainAj1" target="_blank"><i class="icon-twitter2"></i></a></li>
