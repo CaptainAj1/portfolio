@@ -259,7 +259,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://youtu.be/VC9LKsu8xIQ?si=G4jCyPujurcd164l" target="_blank" class="work" style="background-image: url(images/Zinda.png); text-align: center; float: right;">
+					<a href="https://youtu.be/VC9LKsu8xIQ?si=G4jCyPujurcd164l" target="_blank" class="work" style="background-image: url(images/deva.png); text-align: center; float: right;">
 						<div class="desc">
 							<h3>Deva Tula</h3>
 							<span>Music Video</span>
